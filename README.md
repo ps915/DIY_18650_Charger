@@ -15,6 +15,9 @@ I am using this for this porject: [https://blog.seidel-philipp.de/xxl-powerhous
 * reverse polarity protection with fuse and diode
 * easy expandable (just connect them in series)
 
+<img src="https://github.com/ps915/DIY_18650_Charger/blob/master/image/4in1_18650_render.png">
+
+
 # What do you need
 I used the cheapest components to get the lowest price possible. 
 Estimated costs per board including hardware:
@@ -25,6 +28,9 @@ Estimated costs per board including hardware:
 * 8x [glass fuse holder](https://de.aliexpress.com/store/product/100Pcs-5-20mm-Fuse-Holder-Clips-Glass-Quick-Fast-Blow-Fuses-Welding-Holder/2954022_32804593991.html?spm=a2g0x.search0104.3.8.19d733bbvoSt32&ws_ab_test=searchweb0_0,searchweb201602_4_10320_10152_10151_10065_10344_10068_10342_10547_10343_5012915_10340_10548_10341_10696_5013115_10084_10083_10618_5013015_10304_10307_10820_10821_10302_10843_10059_100031_10319_5013215_10103_10624_10623_10622_10621_10620,searchweb201603_54,ppcSwitch_5&algo_expid=2c199d67-62ab-4863-84f4-bc4cc01e5148-1&algo_pvid=2c199d67-62ab-4863-84f4-bc4cc01e5148&priceBeautifyAB=0)
 * 4x [diode (IN5402 3A 200 V, DO-41)](https://de.aliexpress.com/item/10PCS-1N5402-IN5402-3A-200V-DO-41/32452792675.html?spm=a2g0s.9042311.0.0.27424c4dqtMTOK)
 * 1x [18650 holder](https://www.banggood.com/Plastic-Battery-Case-Holder-Storge-Box-DIY-for-4pcs-18650-3_7V-Rechargeable-Batteries-p-1188733.html?p=3R26141006882201412N) (affiliate link)
+
+# Shematics
+<img src="https://github.com/ps915/DIY_18650_Charger/blob/master/image/4.png">
 
 # Ordering the PCB
 you can order the PCB from china:
@@ -49,3 +55,7 @@ you can order the PCB from china:
 3. add to cart
 4. pay the order! Done!
 5. share unused PCBs with the community! =)
+
+# Connection PCBS
+Just solder these PCBs together!
+<img src="https://github.com/ps915/DIY_18650_Charger/blob/master/image/4in1_18650_series.jpg">
