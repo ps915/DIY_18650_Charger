@@ -57,5 +57,5 @@ you can order the PCB from china:
 5. share unused PCBs with the community! =)
 
 # Connection PCBS
-Just solder these PCBs together!
+Just solder these PCBs together! Please apply solder on the open traces to increase trace width!
 <img src="https://github.com/ps915/DIY_18650_Charger/blob/master/image/4in1_18650_series.jpg">
