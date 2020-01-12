@@ -17,6 +17,8 @@ I am using this for this porject: [https://blog.seidel-philipp.de/xxl-powerhous
 
 <img src="https://github.com/ps915/DIY_18650_Charger/blob/master/image/4in1_18650_render.png">
 
+# Support me
+if you like this project and what to support me and my work, you can do it via [Patreon](https://www.patreon.com/philippseidel) or [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2BCQ846V4TD3C)
 
 # What do you need
 I used the cheapest components to get the lowest price possible. 
